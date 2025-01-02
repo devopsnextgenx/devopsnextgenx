@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 **Languages and Tools:**  
 
 <a href="https://github.com/devopsnextgenx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsnextgenx&theme=dark&count_private=true&layout=compact" alt="devopsnextgenx's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsnextgenx&theme=transparent&count_private=true&layout=compact" alt="devopsnextgenx's most used languages" />
 </a>
 <a href="https://github.com/devopsnextgenx">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=devopsnextgenx&show_icons=true&theme=dark&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="devopsnextgenx's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=devopsnextgenx&show_icons=true&theme=transparent&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="devopsnextgenx's github stats"/>
 </a>
 
 ### amitkshirsagar13
@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 **Languages and Tools:**  
 
 <a href="https://github.com/amitkshirsagar13">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkshirsagar13&theme=dark&count_private=true&layout=compact" alt="amitkshirsagar13's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkshirsagar13&theme=transparent&count_private=true&layout=compact" alt="amitkshirsagar13's most used languages" />
 </a>
 <a href="https://github.com/amitkshirsagar13">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkshirsagar13&show_icons=true&theme=dark&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="amitkshirsagar13's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkshirsagar13&show_icons=true&theme=transparent&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="amitkshirsagar13's github stats"/>
 </a>
